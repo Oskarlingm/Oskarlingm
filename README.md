@@ -30,3 +30,58 @@
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/👽)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@👽)
 </div>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+```mermaid
+graph TD;
+    Front-End-->HTML5;
+    Front-End-->CSS3;
+    Front-End-->JavaScript;
+
+    Back-End-->Java;
+    Back-End-->C++;
+    Back-End-->C#;
+    Back-End-->SQL;
+    Back-End-->JSON;
+```
+<p align="center">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">     
+<img src="" width="48" title="">
+<p/>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-68.71798, 18.62501],
+            [-68.69798, 18.62501],
+            [-68.69798, 18.60501],
+            [-68.71798, 18.60501],
+            [-68.71798, 18.62501]
+          ]
+        ]
+      }
+    }
+  ]
+}
+
+
