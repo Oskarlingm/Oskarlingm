@@ -4,6 +4,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👾SOFTWARE.DEV👾;‼️BENDICIONES‼️;)
 
+
+> Soy Oskarling M. Méndez, estudiante activo de Desarrollo de Software en el ITLA, con una visión firme de crecimiento y transformación. No solo me preparo en lo técnico, sino también en lo humano y estratégico, porque estoy decidido a formar parte de proyectos grandes e innovadores que impacten positivamente diversos sectores. Tengo ideas y proyectos que no se quedarán en el olvido; pondré todo mi empeño, dedicación y fe en Dios para convertirlos en realidad. Aspiro a ver una de mis ideas implementada y siendo exitosa en el mundo real. Estoy listo para trabajar arduamente desde el primer momento en que se me presente una oportunidad, mi compromiso es crecer, aprender y aportar soluciones que marquen la diferencia. Porque sé que con esfuerzo, enfoque y propósito, el futuro que sueño es totalmente posible.
+
+
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Oskarlingm&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
